@@ -85,6 +85,12 @@ Trello-Documentation/
 1. Clone the repository:
    ```bash
    git clone https://github.com/GFiorino/Trello-Documentation
+   ```
+
+2. Navigate to the folder of interest (e.g., API/ or UserGuide/).
+
+3. Open the documentation file or deploy it using Docsify/MkDocs if desired.
+
 ## Contributions
 
 Contributions are welcome! If you find any issues or want to improve the documentation, feel free to open a pull request or submit an issue.
@@ -94,3 +100,4 @@ Contributions are welcome! If you find any issues or want to improve the documen
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
