@@ -40,7 +40,7 @@ Solutions to common problems users face when using Trello or its API:
 ## Folder Structure
 
 This repository is organized as follows:
-```mathematica
+```markdown
 Trello-Documentation/
 │
 ├── README.md (Project Overview)
@@ -87,7 +87,7 @@ Trello-Documentation/
    git clone https://github.com/GFiorino/Trello-Documentation
    ```
 
-2. Navigate to the folder of interest (e.g., API/ or UserGuide/).
+2. Navigate to the folder of interest (e.g., ```API/```or ```UserGuide/```).
 
 3. Open the documentation file or deploy it using Docsify/MkDocs if desired.
 
