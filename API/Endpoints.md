@@ -11,12 +11,13 @@ Retrieve details about a specific Trello board.
 ```bash
 GET https://api.trello.com/1/boards/<board_id>?key=<your_api_key>&token=<your_api_token>
 ```
-## Parameters
+### Parameters
 | Parameter   | Type   | Required | Description               |
 |-------------|--------|----------|---------------------------|
 | `board_id`  | string | Yes      | The ID of the Trello board. |
 | `key`       | string | Yes      | Your Trello API key.       |
 | `token`     | string | Yes      | Your Trello API token.     |
+
 ### Example Response
 ```json
 {
@@ -77,7 +78,8 @@ DELETE https://api.trello.com/1/cards/<card_id>?key=<your_api_key>&token=<your_a
 | `card_id`   | string | Yes      | The ID of the card to delete.   |
 | `key`       | string | Yes      | Your Trello API key.            |
 | `token`     | string | Yes      | Your Trello API token.          |
-Example Response
+
+### Example Response
 ```json
 {
   "id": "60d21bf01d842c1c23456789",
