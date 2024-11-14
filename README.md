@@ -7,6 +7,16 @@ Welcome to the Trello Documentation Suite! This repository provides a comprehens
 Trello is a popular project management platform that enables teams to collaborate, organize tasks, and streamline workflows. With a simple and intuitive interface, Trello offers robust features to manage projects, from individual tasks to large-scale team collaborations. This repository focuses on documenting Trello’s API capabilities, user workflows, and troubleshooting common issues.
 
 ---
+## Documentation Sections
+
+- [API Documentation](API/)
+  - [Authentication Guide](API/Authentication.md)
+  - [Endpoints Guide](API/Endpoints.md)
+- [User Guide](UserGuide/)
+  - [Getting Started](UserGuide/GettingStarted.md)
+  - [Features](UserGuide/Features.md)
+  - [Troubleshooting](UserGuide/Troubleshooting.md)
+- [Quick Start Guide](QuickStart/QuickStartGuide.md)
 
 ## What's Included in This Repository
 
